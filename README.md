@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter, Firebase**
 
-- 📫 How to reach me **dicko.dev@gmail.com**
+- 📫 How to reach me **dicko.dev@gmail.com** | **+22374915915**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
