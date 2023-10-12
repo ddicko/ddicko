@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ibrahim52281597" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahim52281597?logo=twitter&style=for-the-badge" alt="ibrahim52281597" /></a> </p>
 
-- 💬 Ask me about **Flutter, Firebase**
+- 💬 Ask me about **Flutter, Firebase**, Python**
 
 - 📫 How to reach me **dicko.dev@gmail.com** | **+223xxxxxx**
 
